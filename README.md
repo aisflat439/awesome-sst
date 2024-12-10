@@ -46,3 +46,9 @@ Awesome things you can find in SST
 
 - [Plugin for VSCode](https://github.com/mattkinnersley/ts-sst-plugin)
 - [Github Actions](https://github.com/marketplace/actions/setup-sst-v3)
+
+### Contribution
+
+This is really just me grabbing stuff that's in the discord's `#showcase` channel. Join the [discord](https://sst.dev/discord)
+
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
