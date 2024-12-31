@@ -18,6 +18,7 @@ Awesome things you can find in SST
 - [Open Auth](https://www.youtube.com/watch?v=SSjNUuQ06tk)
 - [WhatsApp Clone](https://youtube.com/live/M3f38w2Xdjc)
 - [Hardware with SST](https://www.youtube.com/watch?v=-caKi39nF64)
+- [Vercel like deployments with SST](https://youtu.be/eHk_Yh7Cca4)
 - [Dax abandoning things part one](https://www.youtube.com/watch?v=uUNShcE7EaU) and [part two](https://www.youtube.com/watch?v=EmjpPzKqVPE)
 
 ### Examples
@@ -31,8 +32,8 @@ Awesome things you can find in SST
 - [Python and Modal](https://github.com/walln/sst-modal)
 - [Hono API](https://github.com/sgcarstrends/api) and [NextJS](https://github.com/sgcarstrends/web)
 - [Puppeteer](https://github.com/msmps/sst-puppeteer-pdf-generator)
-- [Drizzle and Postgres](https://github.com/Sohailshah20/sst-drizzle-postgres)
 - [Biome](https://github.com/imjulianeral/sst-ion-monorepo-template?tab=readme-ov-file)
+- [A home lab template](https://github.com/Pandoks/homelab-template/tree/database-cleanup)
 
 ### Blogs
 
@@ -46,6 +47,10 @@ Awesome things you can find in SST
 
 - [Plugin for VSCode](https://github.com/mattkinnersley/ts-sst-plugin)
 - [Github Actions](https://github.com/marketplace/actions/setup-sst-v3)
+
+### SST V2
+
+- [Drizzle and Postgres](https://github.com/Sohailshah20/sst-drizzle-postgres)
 
 ### Contribution
 
